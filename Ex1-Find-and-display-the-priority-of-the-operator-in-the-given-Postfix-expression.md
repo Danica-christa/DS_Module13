@@ -14,8 +14,8 @@ To write a C program to find and display the priority of the operator in the giv
 ```
 /*
 Program to find and display the priority of the operator in the given Postfix expression
-Developed by: Cynthia Mehul 
-RegisterNumber: 212223240020
+Developed by: DANICA CHRISTA
+RegisterNumber: 212223240022
 */
 
 #include <stdio.h>
