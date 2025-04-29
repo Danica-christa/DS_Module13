@@ -1,5 +1,5 @@
 # Ex 1C Implementation of Tower of Hanoi
-## DATE: 24/02/2025
+## DATE: 29/04/2025
 ## AIM:
 To write a C program to implement Tower of Hanoi
 
@@ -14,8 +14,8 @@ To write a C program to implement Tower of Hanoi
 ```
 /*
 Program to implement Tower of Hanoi
-Developed by: Cynthia Mehul
-RegisterNumber: 212223240020
+Developed by: DANICA CHRISTA
+RegisterNumber: 212223240022
 */
 
 #include<stdio.h>
